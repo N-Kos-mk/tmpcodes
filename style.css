@@ -1,0 +1,3 @@
+.text.code-block:not(.start) {
+    background-color: #c5c5c5;
+ }
